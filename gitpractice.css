@@ -1,0 +1,14 @@
+p, ul{
+    font-style: italic;
+    text-align:center;
+}
+h1{
+    margin: auto;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+}
+
+
